@@ -4,6 +4,7 @@ import FeatureSection from "./components/FeatureSection";
 import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
+import Roadmap from "./components/Roadmap";
 import WhyMoonex from "./components/WhyMoonex";
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
             </div>
             <WhyMoonex />
             <FeatureSection />
+            <Roadmap />
             <Faq />
             <Footer />
         </div>
