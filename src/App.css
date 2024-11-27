@@ -1,0 +1,10 @@
+.bold-gradient {
+    
+    background: radial-gradient(circle, rgba(228, 180, 13, 0.2),rgba(228, 180, 13, 0.1),rgba(7, 22, 36, 0.2),transparent 100%);
+}
+
+
+.light-gradient {
+    
+    background: radial-gradient(circle, rgba(228, 180, 13, 0.1),rgba(228, 180, 13, 0.05),rgba(7, 22, 36, 0.2),transparent 100%);
+}
